@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I'm Dzaky, a Final Year Undergraduate Statistics Student from State University of Jakarta (Universitas Negeri Jakarta/UNJ)
+I'm currently working on my thesis and looking for a new opportunity for internship
+Reachme on linkedin.com/hilmy-dzaky-muchtar
+
+
 <!--
 **taraky25/taraky25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
