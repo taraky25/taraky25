@@ -4,7 +4,7 @@ I'm Dzaky, a final year Undergraduate Statistics Student from State University o
 
 I'm currently working on my thesis and looking for a new opportunity for internship, volunteers, or other projects
 
-Reach me on https://linkedin.com/hilmy-dzaky-muchtar
+Reach me on [Linkedin]:https://linkedin.com/hilmy-dzaky-muchtar
 
 
 <!--
