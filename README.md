@@ -1,8 +1,10 @@
 ## Hi there 👋
 
-I'm Dzaky, a Final Year Undergraduate Statistics Student from State University of Jakarta (Universitas Negeri Jakarta/UNJ),
-I'm currently working on my thesis and looking for a new opportunity for internship,
-Reachme on linkedin.com/hilmy-dzaky-muchtar
+I'm Dzaky, a final year Undergraduate Statistics Student from State University of Jakarta (Universitas Negeri Jakarta/UNJ)
+
+I'm currently working on my thesis and looking for a new opportunity for internship, volunteers, or other projects
+
+Reach me on https://linkedin.com/hilmy-dzaky-muchtar
 
 
 <!--
