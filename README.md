@@ -1,11 +1,28 @@
 ## Hi there 👋
+# Welcome to My GitHub Profile! 👋
 
-I'm Dzaky, a final year Undergraduate Statistics Student from State University of Jakarta (Universitas Negeri Jakarta/UNJ)
+## About Me
+I'm Dzaky, a final-year undergraduate statistics student with a passion for data analysis and programming. With a GPA of 3.57 and over five years of organizational experience, I bring a unique blend of analytical skills and practical knowledge to my projects.
 
-I'm currently working on my thesis and looking for a new opportunity for internship, volunteers, or other projects
+## Skills
+- **Statistical Analysis:** Proficient in data analysis techniques and methodologies.
+- **Programming:** Experienced in Python, R, and SQL.
+- **Data Visualization:** Skilled in creating insightful visualizations using tools like Matplotlib and Seaborn also Looker.
+- **Microsoft Excel:** Adept at using advanced functions such as PIVOT and LOOKUP for data manipulation.
+- **Team Collaboration:** Strong team player with excellent communication and collaboration skills.
 
-Reach me on [Linkedin](https://linkedin.com/hilmy-dzaky-muchtar)
+## Projects
+- [Semaphore Signals Classifier](link): Brief description of the project.
+- [Air Quality Index Analysis](link): Brief description of the project.
+- [Community Statisfaction Surveu](link): Brief description of the project.
 
+## Interests
+- Data Science
+- Machine Learning
+- Business Intelligence
+
+## Let's Connect!
+Feel free to explore my repositories and reach out to me for collaboration or discussion. You can connect with me on [LinkedIn](LinkedIn profile link) or [Twitter](Twitter profile link).
 
 <!--
 **taraky25/taraky25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
