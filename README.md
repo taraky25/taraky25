@@ -31,7 +31,7 @@ I'm Dzaky, a final-year undergraduate statistics student with a passion for data
 - Business Intelligence
 
 ## Let's Connect!
-Feel free to explore my repositories and reach out to me for collaboration or discussion. You can connect with me on [LinkedIn](LinkedIn profile link) or [Twitter](Twitter profile link).
+Feel free to explore my repositories and reach out to me for collaboration or discussion. You can connect with me on [LinkedIn](www.linkedin.com/in/hilmy-dzaky-muchtar) or [Instagram](https://www.instagram.com/hilmydzaky_/).
 
 <!--
 **taraky25/taraky25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
