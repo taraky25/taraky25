@@ -18,14 +18,15 @@ I'm Dzaky, a final-year undergraduate statistics student with a passion for data
   
 - [Air Quality Index Analysis](https://github.com/taraky25/Dashboards/tree/75a617afd77bcc2b4c1640fca4f47d9dbf889fe9/Dicoding_Data%20Analysis): Python (Jupyter)
 
-  Beijing air quality analysis with Jupyter (Python). An analysis of data related to air quality in Beijing taken from 12 air quality monitoring stations. Data is taken hourly from 2013 to 2017. The analysis is carried out by assessing the data, cleaning, and making appropriate plots. The results obtained stated that the worst air quality was recorded at Wanliu Station and the lowest at Dingling Station, there was no significant change in air quality from 2013 to 2016, January 2014 was the peak of the worst air quality and May 2013 was a month when air quality was quite good. Dashboard creation is also done using the Streamlit library.
+  Beijing air quality analysis with Jupyter (Python). An analysis of air quality data in Beijing was taken from 12 air quality monitoring stations. Data is taken hourly from 2013 to 2017. The analysis is carried out by assessing the data, cleaning, and making appropriate plots. The results obtained stated that the worst air quality was recorded at Wanliu Station and the lowest at Dingling Station, there was no significant change in air quality from 2013 to 2016, January 2014 was the peak of the worst air quality and May 2013 was a month when air quality was quite good. Dashboard creation is also done using the Streamlit library.
   
 - [Community Satisfaction Survey](https://drive.google.com/file/d/1RF-MAsjpsmVLvx9lvrSQzRbgoOpQv4zM/view?usp=drive_link): Microsoft Excel
 
-  Dashboard of the analysis and calculation results of the community satisfaction survey by the CSR unit of PT SUCOFINDO. The survey was conducted by taking reference from the provisions of the PAN-RB minister and respondents taken from the community who received CSR unit assistance. The analysis was conducted using Excel and the calculation of satisfaction index from five indicators. The results show very good satisfaction, 93.82.
+  Dashboard of the analysis and calculation results of the community satisfaction survey by the CSR unit of PT SUCOFINDO. The survey was conducted by taking reference from the provisions of the PAN-RB minister and respondents taken from the community who received CSR unit assistance. The analysis was performed using Excel and calculating the satisfaction index from five indicators. The results show very good satisfaction, 93.82.
 
-- [Retail Sales Report](https://docs.google.com/spreadsheets/d/1osFSxWfV5Lr_Q2ehtFyuZw1lv36ih72D/edit?usp=drive_link&ouid=111230265386684039576&rtpof=true&sd=true):
-  
+- [Retail Sales Report](bit.ly/DashboardExcelOR):
+
+    An interactive Dashboard showing sales reports of a certain worldwide retail company using PIVOT Tables & Graphs from Excel. Data consists of 400.000 lines and 9 columns. Collected from December 2010 to December 2011 from 36 countries and more than 4000 customers.
 
 ## Interests
 - Data Science / Data Analysis
