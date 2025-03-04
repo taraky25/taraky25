@@ -2,12 +2,12 @@
 # Welcome to My GitHub Profile! 👋
 
 ## About Me
-I'm Dzaky, a final-year undergraduate statistics student with a passion for data analysis and programming. With a GPA of 3.57 and over five years of organizational experience, I bring a unique blend of analytical skills and practical knowledge to my projects.
+I'm Dzaky, a statistics fresh graduate with a passion for data analysis and programming. With a GPA of 3.57 and over five years of organizational experience, I bring a unique blend of analytical skills and practical knowledge to my projects.
 
 ## Skills
 - **Statistical Analysis:** Proficient in data analysis techniques and methodologies.
 - **Programming:** Experienced in Python, R, and SQL.
-- **Data Visualization:** Skilled in creating insightful visualizations using tools like Matplotlib and Seaborn as well as Looker.
+- **Data Visualization:** Skilled in creating insightful visualizations using tools like Matplotlib and Seaborn and Looker.
 - **Microsoft Excel:** Adept at using advanced functions such as PIVOT and LOOKUP for data manipulation.
 - **Team Collaboration:** Strong team player with excellent communication and collaboration skills.
 
